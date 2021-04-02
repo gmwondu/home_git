@@ -1,1 +1,2 @@
 Greeting Git!
+Another greeting for you Git!
